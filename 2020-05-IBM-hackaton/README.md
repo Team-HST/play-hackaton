@@ -4,7 +4,7 @@ https://developer.ibm.com/kr/callforcode/hackathon/
 
 <hr>
 
-![](서비스 포스트 이미지로)
+![](서비스를 나타낼 수 있는 포스터 이미지 제작 후 업로드)
 
 ## :pushpin: 기획의도(배경 및 필요성)
 
@@ -12,7 +12,7 @@ https://developer.ibm.com/kr/callforcode/hackathon/
 ## :pushpin: 서비스명
 ### 서비스 내용
 ### 기능정의
-![](기능 관련 로직 이미지로)
+![](기능 관련 로직 이미지로 업로드)
 ### 기대효과
 
 ## :pushpin: 개발환경
