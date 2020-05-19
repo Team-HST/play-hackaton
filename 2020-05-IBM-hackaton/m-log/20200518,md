@@ -1,0 +1,15 @@
+## 2020.05.14
+### :pencil: 참석 : 김영훈, 이한울, 이현규, 임유표
+### :pencil: 안건 : 도메인 정리 및 흐름도 작성
+### :pencil: 내용
+- 프로젝트 명 : 러닝허브
+- 기능 별 서비스 흐름 정의
+[회의 내용](https://docs.google.com/spreadsheets/d/1ubTIqQ5M1GvZV1CqhFAU-_Sbcl8R4-NCyQNsbFAfPR8/edit?ts=5ebd2832#gid=0)
+
+### :pencil: 할 일
+- 전체 : Vue.js Template 서칭
+- 이현규, 김영훈 : 백엔드(Spring Boot), 프론트엔드(Vue.js) 초기셋팅
+- 임유표, 이한울 : MariaDB ERD
+  - AQueryTool 읽기전용
+      - URL : https://aquerytool.com:443/aquerymain/index/?rurl=fefff54e-239a-47e6-b97a-f83637070931&
+      - Password : 447d27
