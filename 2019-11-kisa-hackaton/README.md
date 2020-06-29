@@ -7,6 +7,9 @@ https://onoffmix.com/event/194608
 ### \# 결과
 우수상 :tada:
 
+<img src="img/해커톤%20상장(우수상).jpg" width="40%" height="30%"></img>
+
+
 ### \# 서류발표
 2019-11-19
 
